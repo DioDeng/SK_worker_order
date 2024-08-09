@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[668],{668:function(e,n,r){function u(e,n){return" 廠商資料 "}r.r(n),r.d(n,{default:function(){return s}});var t=r(262);const c={},f=(0,t.A)(c,[["render",u]]);var s=f}}]);
-//# sourceMappingURL=668.59f54a73.js.map
